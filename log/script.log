@@ -1,0 +1,1533 @@
+2016-08-27 08:57:49,673 [Thread-3:3444] [django.request:182] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-27 09:28:51,482 [Thread-3:7656] [django.request:182] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-27 09:29:44,370 [Thread-3:7248] [django.request:182] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-27 09:30:07,689 [Thread-10:5360] [django.request:182] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-10-27 12:00:42,887 [Thread-7:8388] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2017-10-27 12:00:47,150 [Thread-12:7932] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2017-10-27 14:36:11,134 [Thread-58:7896] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-27 15:03:10,513 [Thread-59:8684] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-27 15:03:16,986 [Thread-67:4896] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-27 15:30:14,818 [Thread-21:8164] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/2015/08/04.jpg
+2016-08-27 15:30:15,013 [Thread-22:9344] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-27 15:30:30,572 [Thread-25:4768] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/avatar/2015/08/04.jpg
+2016-08-27 15:56:07,119 [Thread-2:3764] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-29 15:25:10,056 [Thread-3:8164] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-29 15:25:10,697 [Thread-4:1376] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-29 15:46:29,950 [Thread-3:9520] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-29 15:47:19,334 [Thread-7:9732] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-29 15:51:55,187 [Thread-3:4404] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-29 15:51:56,608 [Thread-5:8912] [django.request:170] [base:get_response] [WARNING]- Not Found: /index.html
+2016-08-29 15:51:59,586 [Thread-6:9008] [django.request:170] [base:get_response] [WARNING]- Not Found: /index.html
+2016-08-29 15:56:40,289 [Thread-9:10156] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-29 15:57:14,377 [Thread-15:2696] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-29 15:57:35,296 [Thread-25:9924] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-29 16:01:05,930 [Thread-31:9152] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-29 17:57:22,437 [Thread-32:9812] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 08:39:21,322 [Thread-3:6744] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 08:39:21,819 [Thread-4:8056] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 08:39:26,795 [Thread-6:8008] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 08:39:31,545 [Thread-8:7300] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 08:39:44,713 [Thread-10:6984] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 08:48:56,750 [Thread-41:3844] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 08:49:23,197 [Thread-47:7776] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 08:50:13,398 [Thread-49:6268] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 08:50:24,232 [Thread-53:7340] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:13:49,252 [Thread-62:7588] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:18:25,219 [Thread-68:4512] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:18:28,976 [Thread-70:5932] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:20:11,657 [Thread-73:7336] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 31, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 35, in get_template
+    return engine.get_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 30, in get_template
+    return Template(self.engine.get_template(template_name, dirs))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 210, in do_extends
+    nodelist = parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 184, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 1014, in do_if
+    nodelist = parser.parse(('elif', 'else', 'endif'))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 339, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 394, in invalid_block_tag
+    (command, get_text_list(["'%s'" % p for p in parse_until])))
+TemplateSyntaxError: Invalid block tag: 'elsse', expected 'elif'\uff0c'else' \u6216 'endif'
+2016-08-30 09:20:19,645 [Thread-75:4276] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:20:21,240 [Thread-76:1112] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 09:20:22,888 [Thread-78:7528] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:21:19,460 [Thread-82:6488] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:21:55,447 [Thread-85:6992] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:22:20,673 [Thread-88:6768] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:22:46,584 [Thread-91:1084] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:23:43,444 [Thread-94:7300] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:23:45,566 [Thread-96:1096] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:23:49,388 [Thread-98:3948] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:23:51,388 [Thread-100:4056] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:23:53,216 [Thread-102:484] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:25:27,552 [Thread-104:7744] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:25:31,266 [Thread-106:5852] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 09:45:49,119 [Thread-2:7264] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 09:45:49,417 [Thread-4:4276] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 10:28:44,503 [Thread-2:3752] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 33, in index
+    article_list = Article.objects.all()
+AttributeError: type object 'Article' has no attribute 'objects'
+2016-08-30 10:28:59,469 [Thread-3:7480] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 10:29:49,772 [Thread-3:4312] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 10:30:14,930 [Thread-3:8040] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 10:30:29,759 [Thread-6:7584] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 10:30:41,651 [Thread-2:2080] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 39, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 217, in render
+    nodelist.append(node.render(context))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 507, in render
+    six.reraise(*exc_info)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 493, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 579, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 496, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'archive' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-08-30 10:39:33,532 [Thread-2:4856] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 39, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 217, in render
+    nodelist.append(node.render(context))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 507, in render
+    six.reraise(*exc_info)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 493, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 579, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 496, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'archive' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-08-30 11:02:06,976 [Thread-3:6800] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 11:02:11,540 [Thread-5:7772] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:08:23,227 [Thread-6:8116] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 11:08:23,536 [Thread-8:1120] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 11:08:29,240 [Thread-10:3364] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:09:24,960 [Thread-3:6680] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:11:14,641 [Thread-6:6708] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:11:55,898 [Thread-3:8080] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:13:11,630 [Thread-3:7076] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:15:48,331 [Thread-3:1576] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:15:51,135 [Thread-5:1404] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:15:55,634 [Thread-7:4484] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:15:59,164 [Thread-9:6204] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:24:05,177 [Thread-3:4056] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 11:24:51,016 [Thread-13:7792] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:24:55,706 [Thread-15:4284] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:24:59,118 [Thread-17:5952] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:25:04,433 [Thread-19:4680] [django.request:170] [base:get_response] [WARNING]- Not Found: /archive/js/nav.js
+2016-08-30 11:38:01,229 [Thread-21:5952] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 11:42:42,641 [Thread-22:8796] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 11:49:14,900 [Thread-2:9656] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 48, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 208, in render
+    with context.bind_template(self):
+  File "c:\python27\Lib\contextlib.py", line 17, in __enter__
+    return self.gen.next()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\context.py", line 235, in bind_template
+    updates.update(processor(self.request))
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 31, in global_setting
+    comment_count_list = Comment.objects.values('article').annotate(comment_count=Count('article')).order_by('-comment_count')
+NameError: global name 'Count' is not defined
+2016-08-30 11:50:53,546 [Thread-3:10080] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 11:52:01,335 [Thread-5:9444] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 12:03:16,075 [Thread-2:9144] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 14:15:39,727 [Thread-4:10464] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:16:09,667 [Thread-10:8960] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:20:38,811 [Thread-3:13260] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:38:57,947 [Thread-7:14416] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:48:00,970 [Thread-4:9800] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/04.jpg
+2016-08-30 14:48:00,980 [Thread-3:8252] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:48:01,194 [Thread-6:8608] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/ex01.jpg
+2016-08-30 14:48:01,194 [Thread-8:18124] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/04.jpg
+2016-08-30 14:48:01,210 [Thread-5:11688] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/06.jpg
+2016-08-30 14:49:42,171 [Thread-13:13792] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/04.jpg
+2016-08-30 14:49:42,171 [Thread-12:13148] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:49:42,296 [Thread-14:5012] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/06.jpg
+2016-08-30 14:49:42,323 [Thread-15:1188] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/ex01.jpg
+2016-08-30 14:51:08,849 [Thread-18:14560] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/04.jpg
+2016-08-30 14:51:08,858 [Thread-17:15368] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:51:08,867 [Thread-19:15288] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/06.jpg
+2016-08-30 14:51:08,888 [Thread-20:14164] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/ex01.jpg
+2016-08-30 14:51:08,944 [Thread-22:13972] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/04.jpg
+2016-08-30 14:51:44,888 [Thread-24:4032] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:52:27,134 [Thread-32:14668] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:52:27,211 [Thread-34:15196] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/06.jpg
+2016-08-30 14:52:27,260 [Thread-35:15356] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/ex01.jpg
+2016-08-30 14:52:27,280 [Thread-33:7964] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/a1.jpg
+2016-08-30 14:52:58,713 [Thread-38:13356] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:53:40,849 [Thread-3:10144] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:53:40,878 [Thread-4:14396] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/a1.jpg
+2016-08-30 14:53:40,888 [Thread-5:14564] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/06.jpg
+2016-08-30 14:53:40,915 [Thread-6:14832] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/ex01.jpg
+2016-08-30 14:57:31,150 [Thread-9:8400] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:57:31,197 [Thread-10:9920] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/a1.jpg
+2016-08-30 14:57:34,134 [Thread-13:17540] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:57:34,151 [Thread-14:17544] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/a1.jpg
+2016-08-30 14:58:01,286 [Thread-17:15748] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:58:42,654 [Thread-21:18320] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:59:14,786 [Thread-25:18396] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:59:14,802 [Thread-26:16708] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/g
+2016-08-30 14:59:22,634 [Thread-29:7080] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 14:59:22,638 [Thread-30:18308] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/
+2016-08-30 14:59:22,684 [Thread-32:18064] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/
+2016-08-30 15:00:14,552 [Thread-34:18100] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:00:14,559 [Thread-35:17292] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/
+2016-08-30 15:03:02,765 [Thread-37:11020] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 55, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 151, in render
+    template = context.template.engine.get_template(template)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 872, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 339, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 394, in invalid_block_tag
+    (command, get_text_list(["'%s'" % p for p in parse_until])))
+TemplateSyntaxError: Invalid block tag: 'media', expected 'empty' \u6216 'endfor'
+2016-08-30 15:03:53,269 [Thread-41:10780] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 55, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 151, in render
+    template = context.template.engine.get_template(template)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 872, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 339, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 394, in invalid_block_tag
+    (command, get_text_list(["'%s'" % p for p in parse_until])))
+TemplateSyntaxError: Invalid block tag: ''/uploads/'', expected 'empty' \u6216 'endfor'
+2016-08-30 15:04:01,871 [Thread-42:10000] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 55, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 151, in render
+    template = context.template.engine.get_template(template)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 872, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 339, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 394, in invalid_block_tag
+    (command, get_text_list(["'%s'" % p for p in parse_until])))
+TemplateSyntaxError: Invalid block tag: 'ad.image_url', expected 'empty' \u6216 'endfor'
+2016-08-30 15:04:14,148 [Thread-45:11708] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 55, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 151, in render
+    template = context.template.engine.get_template(template)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 872, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 339, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 394, in invalid_block_tag
+    (command, get_text_list(["'%s'" % p for p in parse_until])))
+TemplateSyntaxError: Invalid block tag: 'ad.image_url', expected 'empty' \u6216 'endfor'
+2016-08-30 15:04:34,615 [Thread-47:17584] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:04:34,618 [Thread-48:17276] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/a1.jpg
+2016-08-30 15:04:34,621 [Thread-49:14244] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/06.jpg
+2016-08-30 15:04:34,621 [Thread-50:15340] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/ex01.jpg
+2016-08-30 15:07:35,815 [Thread-56:9860] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 55, in index
+    return render(request, 'index.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 151, in render
+    template = context.template.engine.get_template(template)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 872, in do_for
+    nodelist_loop = parser.parse(('empty', 'endfor',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 317, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 423, in compile_filter
+    return FilterExpression(token, self)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 639, in __init__
+    "from '%s'" % (token[upto:], token))
+TemplateSyntaxError: Could not parse the remainder: '+ ad.image_url' from 'MEDIA_ROOT+ ad.image_url'
+2016-08-30 15:09:10,969 [Thread-60:8984] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:09:11,039 [Thread-61:3300] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/a1.jpg
+2016-08-30 15:09:11,063 [Thread-62:10932] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/06.jpg
+2016-08-30 15:09:11,065 [Thread-63:17908] [django.request:170] [base:get_response] [WARNING]- Not Found: /ad/2016/08/ex01.jpg
+2016-08-30 15:14:25,200 [Thread-66:9780] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:14:25,203 [Thread-68:9820] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/ + ad/2016/08/06.jpg
+2016-08-30 15:14:25,242 [Thread-67:8236] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/ + ad/2016/08/a1.jpg
+2016-08-30 15:14:25,242 [Thread-69:8608] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/ + ad/2016/08/ex01.jpg
+2016-08-30 15:14:25,279 [Thread-71:14784] [django.request:170] [base:get_response] [WARNING]- Not Found: /uploads/ + ad/2016/08/06.jpg
+2016-08-30 15:15:03,561 [Thread-73:13000] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:23:33,433 [Thread-79:14552] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:25:33,454 [Thread-85:17544] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:26:36,607 [Thread-90:17340] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:27:59,936 [Thread-100:12556] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:33:55,013 [Thread-106:12788] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:34:11,032 [Thread-112:6592] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:34:43,798 [Thread-117:8692] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 15:45:33,622 [Thread-3:7916] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 16:52:00,696 [Thread-3:9720] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 16:53:23,269 [Thread-3:14044] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 16:53:34,982 [Thread-7:12156] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 16:53:51,678 [Thread-10:7436] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 16:54:52,170 [Thread-8:8768] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 16:56:59,503 [Thread-3:9928] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 17:01:04,177 [Thread-3:12572] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 17:03:54,980 [Thread-3:3944] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 17:04:12,681 [Thread-3:18008] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 17:49:51,404 [Thread-4:7184] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 17:49:54,456 [Thread-11:16060] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/index.css
+2016-08-30 17:49:54,523 [Thread-12:17296] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/jquery.min.js
+2016-08-30 17:49:54,523 [Thread-15:16860] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/images/default.jpg
+2016-08-30 17:49:54,539 [Thread-13:14536] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/sliders.js
+2016-08-30 17:49:54,592 [Thread-10:6064] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/base.css
+2016-08-30 17:49:54,592 [Thread-14:18332] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 17:49:54,678 [Thread-16:16616] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/images/default.jpg
+2016-08-30 17:51:34,746 [Thread-19:10392] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/index.css
+2016-08-30 17:51:34,763 [Thread-20:15124] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/jquery.min.js
+2016-08-30 17:51:34,765 [Thread-21:10904] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/sliders.js
+2016-08-30 17:51:34,803 [Thread-18:14124] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/base.css
+2016-08-30 17:51:34,806 [Thread-22:8720] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 17:51:34,823 [Thread-23:18116] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/images/default.jpg
+2016-08-30 17:51:38,757 [Thread-24:4508] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 17:51:39,223 [Thread-26:3944] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 17:51:41,693 [Thread-32:16912] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/sliders.js
+2016-08-30 17:51:41,693 [Thread-29:18356] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/base.css
+2016-08-30 17:51:41,698 [Thread-30:15504] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/index.css
+2016-08-30 17:51:41,710 [Thread-31:13444] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/jquery.min.js
+2016-08-30 17:51:41,713 [Thread-33:18232] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 17:51:41,724 [Thread-34:16944] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/images/default.jpg
+2016-08-30 17:52:23,253 [Thread-3:8516] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 17:52:24,844 [Thread-6:5224] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/base.css
+2016-08-30 17:52:24,871 [Thread-7:14904] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/css/index.css
+2016-08-30 17:52:24,875 [Thread-8:13224] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/jquery.min.js
+2016-08-30 17:52:24,878 [Thread-10:16608] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 17:52:24,878 [Thread-11:9576] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/images/default.jpg
+2016-08-30 17:52:24,878 [Thread-9:10272] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/sliders.js
+2016-08-30 17:52:24,993 [Thread-12:4980] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/images/default.jpg
+2016-08-30 17:58:00,012 [Thread-13:16796] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 89, in render
+    output = self.filter_expression.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 647, in resolve
+    obj = self.var.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 787, in resolve
+    value = self._resolve_lookup(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 825, in _resolve_lookup
+    current = getattr(current, bit)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\fields\related.py", line 602, in __get__
+    rel_obj = qs.get()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 328, in get
+    num = len(clone)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 144, in __len__
+    self._fetch_all()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 965, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 238, in iterator
+    results = compiler.execute_sql()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\sql\compiler.py", line 840, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 167, in execute
+    result = self._query(query)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 323, in _query
+    conn.query(q)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 836, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1020, in _read_query_result
+    result.read()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1303, in read
+    first_packet = self.connection._read_packet()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 982, in _read_packet
+    packet.check_error()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 394, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 120, in raise_mysql_exception
+    _check_mysql_exception(errinfo)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 115, in _check_mysql_exception
+    raise InternalError(errno, errorvalue)
+InternalError: (1054, u"Unknown column 'blog_user.url' in 'field list'")
+2016-08-30 18:00:08,397 [Thread-20:8748] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 18:00:09,707 [Thread-22:1564] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 89, in render
+    output = self.filter_expression.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 647, in resolve
+    obj = self.var.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 787, in resolve
+    value = self._resolve_lookup(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 825, in _resolve_lookup
+    current = getattr(current, bit)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\fields\related.py", line 602, in __get__
+    rel_obj = qs.get()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 328, in get
+    num = len(clone)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 144, in __len__
+    self._fetch_all()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 965, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 238, in iterator
+    results = compiler.execute_sql()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\sql\compiler.py", line 840, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 167, in execute
+    result = self._query(query)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 323, in _query
+    conn.query(q)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 836, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1020, in _read_query_result
+    result.read()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1303, in read
+    first_packet = self.connection._read_packet()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 982, in _read_packet
+    packet.check_error()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 394, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 120, in raise_mysql_exception
+    _check_mysql_exception(errinfo)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 115, in _check_mysql_exception
+    raise InternalError(errno, errorvalue)
+InternalError: (1054, u"Unknown column 'blog_user.url' in 'field list'")
+2016-08-30 18:00:45,678 [Thread-25:17532] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 89, in render
+    output = self.filter_expression.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 647, in resolve
+    obj = self.var.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 787, in resolve
+    value = self._resolve_lookup(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 825, in _resolve_lookup
+    current = getattr(current, bit)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\fields\related.py", line 602, in __get__
+    rel_obj = qs.get()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 328, in get
+    num = len(clone)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 144, in __len__
+    self._fetch_all()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 965, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 238, in iterator
+    results = compiler.execute_sql()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\sql\compiler.py", line 840, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 167, in execute
+    result = self._query(query)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 323, in _query
+    conn.query(q)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 836, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1020, in _read_query_result
+    result.read()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1303, in read
+    first_packet = self.connection._read_packet()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 982, in _read_packet
+    packet.check_error()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 394, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 120, in raise_mysql_exception
+    _check_mysql_exception(errinfo)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 115, in _check_mysql_exception
+    raise InternalError(errno, errorvalue)
+InternalError: (1054, u"Unknown column 'blog_user.url' in 'field list'")
+2016-08-30 18:03:03,131 [Thread-30:15352] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-30 18:03:03,288 [Thread-31:13060] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /admin/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\contrib\admin\sites.py", line 254, in wrapper
+    return self.admin_view(view, cacheable)(*args, **kwargs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\utils\decorators.py", line 110, in _wrapped_view
+    response = view_func(request, *args, **kwargs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\views\decorators\cache.py", line 57, in _wrapped_view_func
+    response = view_func(request, *args, **kwargs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\contrib\admin\sites.py", line 222, in inner
+    if not self.has_permission(request):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\contrib\admin\sites.py", line 162, in has_permission
+    return request.user.is_active and request.user.is_staff
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\utils\functional.py", line 226, in inner
+    self._setup()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\utils\functional.py", line 359, in _setup
+    self._wrapped = self._setupfunc()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\contrib\auth\middleware.py", line 22, in <lambda>
+    request.user = SimpleLazyObject(lambda: get_user(request))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\contrib\auth\middleware.py", line 10, in get_user
+    request._cached_user = auth.get_user(request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\contrib\auth\__init__.py", line 174, in get_user
+    user = backend.get_user(user_id)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\contrib\auth\backends.py", line 93, in get_user
+    return UserModel._default_manager.get(pk=user_id)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\manager.py", line 127, in manager_method
+    return getattr(self.get_queryset(), name)(*args, **kwargs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 328, in get
+    num = len(clone)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 144, in __len__
+    self._fetch_all()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 965, in _fetch_all
+    self._result_cache = list(self.iterator())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\query.py", line 238, in iterator
+    results = compiler.execute_sql()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\models\sql\compiler.py", line 840, in execute_sql
+    cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 79, in execute
+    return super(CursorDebugWrapper, self).execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\utils.py", line 97, in __exit__
+    six.reraise(dj_exc_type, dj_exc_value, traceback)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\utils.py", line 64, in execute
+    return self.cursor.execute(sql, params)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\db\backends\mysql\base.py", line 124, in execute
+    return self.cursor.execute(query, args)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 167, in execute
+    result = self._query(query)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\cursors.py", line 323, in _query
+    conn.query(q)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 836, in query
+    self._affected_rows = self._read_query_result(unbuffered=unbuffered)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1020, in _read_query_result
+    result.read()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 1303, in read
+    first_packet = self.connection._read_packet()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 982, in _read_packet
+    packet.check_error()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\connections.py", line 394, in check_error
+    err.raise_mysql_exception(self._data)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 120, in raise_mysql_exception
+    _check_mysql_exception(errinfo)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\pymysql\err.py", line 115, in _check_mysql_exception
+    raise InternalError(errno, errorvalue)
+InternalError: (1054, u"Unknown column 'blog_user.url' in 'field list'")
+2016-08-30 18:03:55,930 [Thread-3:9276] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 329, in render
+    return nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 507, in render
+    six.reraise(*exc_info)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 493, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 579, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 496, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'logout' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-08-30 18:05:41,743 [Thread-3:17636] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 329, in render
+    return nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 507, in render
+    six.reraise(*exc_info)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 493, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 579, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 496, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'logout' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-08-30 18:06:58,921 [Thread-2:1612] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 507, in render
+    six.reraise(*exc_info)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 493, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 579, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 496, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'comment_post' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-08-30 18:14:08,417 [Thread-3:9216] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:14:18,177 [Thread-11:16396] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 18:14:25,816 [Thread-17:7440] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 18:14:31,515 [Thread-20:17868] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:19:33,006 [Thread-22:13076] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 35, in get_template
+    return engine.get_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 30, in get_template
+    return Template(self.engine.get_template(template_name, dirs))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 210, in do_extends
+    nodelist = parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 1163, in load
+    (taglib, e))
+TemplateSyntaxError: 'myfilter' is not a valid tag library: Template library myfilter not found, tried django.templatetags.myfilter,django.contrib.admin.templatetags.myfilter,django.contrib.staticfiles.templatetags.myfilter
+2016-08-30 18:23:28,765 [Thread-2:16092] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 90, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 46, in get_template
+    raise TemplateDoesNotExist(template_name)
+TemplateDoesNotExist: article.html
+2016-08-30 18:24:23,125 [Thread-3:12020] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:24:50,391 [Thread-6:14644] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:24:56,108 [Thread-8:6068] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/base.html
+2016-08-30 18:26:53,515 [Thread-10:11244] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:26:54,842 [Thread-13:15888] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 18:26:58,815 [Thread-14:12148] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/index.html
+2016-08-30 18:29:13,786 [Thread-16:17816] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 18:29:16,740 [Thread-18:14000] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:29:33,598 [Thread-20:15212] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 18:29:39,104 [Thread-22:13928] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-30 18:29:41,056 [Thread-24:11884] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:31:38,223 [Thread-3:13492] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-30 18:58:23,970 [Thread-5:15832] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 08:39:51,640 [Thread-3:7812] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 08:39:52,073 [Thread-7:1768] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 08:39:57,499 [Thread-9:7996] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 08:40:34,108 [Thread-10:6664] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /comment/post/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 99, in comment_post
+    return render(request, 'article.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 89, in render
+    output = self.filter_expression.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 674, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\templatetags\myfilter.py", line 9, in month_to_upper
+    return ['涓€', '浜?, '涓?, '鍥?, '浜?, '鍏?, '涓?, '鍏?, '涔?, '鍗?, '鍗佷竴', '鍗佷簩'][key.month - 1]
+AttributeError: 'str' object has no attribute 'month'
+2016-08-31 08:41:24,996 [Thread-18:6500] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 08:41:26,749 [Thread-20:6752] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 08:41:32,165 [Thread-22:6740] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 08:41:34,448 [Thread-24:6964] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 08:44:27,765 [Thread-27:7760] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 09:00:39,427 [Thread-3:5624] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:02:00,065 [Thread-7:6276] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:02:56,868 [Thread-3:2976] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:05:00,187 [Thread-3:4636] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:06:28,194 [Thread-3:6316] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:07:37,598 [Thread-3:7108] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:08:29,654 [Thread-3:4004] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:09:10,089 [Thread-3:2004] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:10:57,693 [Thread-5:7872] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:12:23,142 [Thread-3:6896] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:13:45,553 [Thread-5:5160] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:15:03,204 [Thread-3:6100] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:16:15,335 [Thread-3:4520] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 09:47:52,693 [Thread-4:7552] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 10:27:01,821 [Thread-3:6716] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 10:27:26,828 [Thread-4:5896] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /comment/post/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 123, in comment_post
+    return render(request, 'article.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 89, in render
+    output = self.filter_expression.resolve(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 674, in resolve
+    new_obj = func(obj, *arg_vals)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\templatetags\myfilter.py", line 9, in month_to_upper
+    return ['涓€', '浜?, '涓?, '鍥?, '浜?, '鍏?, '涓?, '鍏?, '涔?, '鍗?, '鍗佷竴', '鍗佷簩'][key.month - 1]
+AttributeError: 'str' object has no attribute 'month'
+2016-08-31 10:27:31,586 [Thread-6:5320] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:04:35,756 [Thread-3:7748] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:04:45,252 [Thread-6:1672] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:10:54,698 [Thread-3:5128] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:11:10,542 [Thread-7:6240] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:13:34,358 [Thread-10:7080] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:14:56,391 [Thread-13:6104] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:16:52,980 [Thread-3:3716] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:16:55,562 [Thread-5:5624] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 110, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 99, in render_to_string
+    return template.render(context, request)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 74, in render
+    return self.template.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 209, in render
+    return self._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 135, in render
+    return compiled_parent._render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 201, in _render
+    return self.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 65, in render
+    result = block.nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 329, in render
+    return nodelist.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 903, in render
+    bit = self.render_node(node, context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\debug.py", line 79, in render_node
+    return node.render(context)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 507, in render
+    six.reraise(*exc_info)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\defaulttags.py", line 493, in render
+    url = reverse(view_name, args=args, kwargs=kwargs, current_app=current_app)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 579, in reverse
+    return force_text(iri_to_uri(resolver._reverse_with_prefix(view, prefix, *args, **kwargs)))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\urlresolvers.py", line 496, in _reverse_with_prefix
+    (lookup_view_s, args, kwargs, len(patterns), patterns))
+NoReverseMatch: Reverse for 'reg' with arguments '()' and keyword arguments '{}' not found. 0 pattern(s) tried: []
+2016-08-31 11:33:50,575 [Thread-3:6104] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:33:57,696 [Thread-4:7940] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /login/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 133, in do_login
+    return render(request, 'login.html', locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 35, in get_template
+    return engine.get_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 30, in get_template
+    return Template(self.engine.get_template(template_name, dirs))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 339, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 395, in invalid_block_tag
+    raise self.error(token, "Invalid block tag: '%s'" % command)
+TemplateSyntaxError: Invalid block tag: 'static'
+2016-08-31 11:34:36,855 [Thread-7:7808] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 11:34:37,209 [Thread-9:7352] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 11:34:39,332 [Thread-14:7080] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:37:35,588 [Thread-23:7964] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:37:39,207 [Thread-26:7504] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:37:41,444 [Thread-27:6348] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /reg
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 161, in do_reg
+    return render(request,'reg.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 35, in get_template
+    return engine.get_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 30, in get_template
+    return Template(self.engine.get_template(template_name, dirs))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 339, in parse
+    self.invalid_block_tag(token, command, parse_until)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 395, in invalid_block_tag
+    raise self.error(token, "Invalid block tag: '%s'" % command)
+TemplateSyntaxError: Invalid block tag: 'static'
+2016-08-31 11:38:00,878 [Thread-29:7548] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 11:38:02,704 [Thread-31:2876] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:38:57,082 [Thread-35:6964] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 11:38:59,072 [Thread-37:6516] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:40:23,247 [Thread-39:1412] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:50:53,951 [Thread-43:3872] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 11:50:58,979 [Thread-45:6484] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 11:51:23,734 [Thread-48:9304] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:52:29,441 [Thread-52:9716] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 11:52:31,400 [Thread-54:9760] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:55:04,007 [Thread-3:6808] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 11:55:09,755 [Thread-5:8692] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:55:40,092 [Thread-11:9092] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:56:17,424 [Thread-17:9284] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 11:57:55,230 [Thread-3:9396] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 11:57:57,836 [Thread-5:6176] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:00:03,171 [Thread-9:10064] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 12:00:05,743 [Thread-11:6972] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:01:09,724 [Thread-14:8304] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 12:01:10,865 [Thread-16:9324] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 12:01:12,598 [Thread-18:8612] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:02:08,141 [Thread-22:8820] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 12:02:09,724 [Thread-24:8804] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:02:23,312 [Thread-28:6948] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:02:31,553 [Thread-31:7208] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:05:46,148 [Thread-32:8276] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 110, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 35, in get_template
+    return engine.get_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 30, in get_template
+    return Template(self.engine.get_template(template_name, dirs))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 210, in do_extends
+    nodelist = parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 184, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 317, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 423, in compile_filter
+    return FilterExpression(token, self)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 624, in __init__
+    var_obj = Variable(var)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 780, in __init__
+    var)
+TemplateSyntaxError: Variables and attributes may not begin with underscores: 'comment_list.__len__'
+2016-08-31 12:06:43,634 [Thread-36:5496] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:08:11,921 [Thread-38:8952] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 110, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 35, in get_template
+    return engine.get_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 30, in get_template
+    return Template(self.engine.get_template(template_name, dirs))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 210, in do_extends
+    nodelist = parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 184, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 317, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 423, in compile_filter
+    return FilterExpression(token, self)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 639, in __init__
+    "from '%s'" % (token[upto:], token))
+TemplateSyntaxError: Could not parse the remainder: '()' from 'comment_list.count()'
+2016-08-31 12:08:19,756 [Thread-40:7412] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:10:19,607 [Thread-41:8636] [django.request:256] [base:handle_uncaught_exception] [ERROR]- Internal Server Error: /article/
+Traceback (most recent call last):
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\core\handlers\base.py", line 132, in get_response
+    response = wrapped_callback(request, *callback_args, **callback_kwargs)
+  File "E:\python\maizi\virtualenv-workspace\workspace\blog_project\blog\views.py", line 110, in article
+    return render(request,'article.html',locals())
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\shortcuts.py", line 67, in render
+    template_name, context, request=request, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 98, in render_to_string
+    template = get_template(template_name, using=using)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader.py", line 35, in get_template
+    return engine.get_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\backends\django.py", line 30, in get_template
+    return Template(self.engine.get_template(template_name, dirs))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 167, in get_template
+    template, origin = self.find_template(template_name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 141, in find_template
+    source, display_name = loader(name, dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 13, in __call__
+    return self.load_template(template_name, template_dirs)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loaders\base.py", line 23, in load_template
+    template = Template(source, origin, template_name, self.engine)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 190, in __init__
+    self.nodelist = engine.compile_string(template_string, origin)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\engine.py", line 261, in compile_string
+    return parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 210, in do_extends
+    nodelist = parser.parse()
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 341, in parse
+    compiled_result = compile_func(self, token)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\loader_tags.py", line 184, in do_block
+    nodelist = parser.parse(('endblock',))
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 317, in parse
+    filter_expression = self.compile_filter(token.contents)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 423, in compile_filter
+    return FilterExpression(token, self)
+  File "E:\python\maizi\virtualenv-workspace\venv\django_blog_env\lib\site-packages\django\template\base.py", line 639, in __init__
+    "from '%s'" % (token[upto:], token))
+TemplateSyntaxError: Could not parse the remainder: '(comment_list)' from 'len(comment_list)'
+2016-08-31 12:11:15,117 [Thread-3:7992] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 12:11:20,203 [Thread-4:8600] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 12:11:20,461 [Thread-6:8732] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 12:11:23,329 [Thread-9:8552] [django.request:170] [base:get_response] [WARNING]- Not Found: /article/js/nav.js
+2016-08-31 14:08:30,857 [Thread-10:2672] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 14:27:22,680 [Thread-11:6928] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 15:02:38,733 [Thread-12:10036] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico
+2016-08-31 19:21:09,194 [Thread-3:9012] [django.request:170] [base:get_response] [WARNING]- Not Found: /js/nav.js
+2016-08-31 19:21:14,826 [Thread-7:8816] [django.request:170] [base:get_response] [WARNING]- Not Found: /favicon.ico

@@ -1,0 +1,41 @@
+{% load staticfiles %}
+
+        <div class="banner">
+              <div id="slide-holder">
+                <div id="slide-runner">
+                  {% for ad in ad_list %}
+                      <a href="/" target="_blank"><img id="slide-img-1" src="/uploads/{{  ad.image_url }}" alt="" /></a>
+                      <div id="slide-controls">
+{#                        <p id="slide-client" class="text"><strong></strong><span></span></p>#}
+{#                        <p id="slide-desc" class="text"></p>#}
+{#                        <p id="slide-nav"></p>#}
+                          <p id="slide-client" class="text"><strong>{{ ad.title }}</strong><span></span></p>
+                          <p id="slide-desc" class="text">{{ ad.description }}</p>
+                          <p id="slide-nav"></p>
+                      </div>
+                  {% endfor %}
+                </div>
+              </div>
+
+              <script>
+                  (function () {
+                            if(!window.slider) {
+                                var slider={};
+                            }
+                            slider.data= [
+                            {
+                                "id":"slide-img-1", // 与slide-runner中的img标签id对应
+                                "client":"标题1",
+                                "desc":"这里修改描述 这里修改描述 这里修改描述" //这里修改描述
+                            },
+                            slider.data= [
+                            {
+                                "id":"slide-img-1", // 与slide-runner中的img标签id对应
+                                "client":"标题1",
+                                "desc":"这里修改描述 这里修改描述 这里修改描述" //这里修改描述
+                            }
+                          ];
+                  })();
+
+            </script>
+        </div>
